@@ -1,0 +1,364 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style:none; 
+	text-decoration:none;	
+}
+
+body {
+    width: 100%;
+    height: 1366px;
+	background: url(../img/fondo.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header {
+	width:100%;
+	height: 100px;
+	position:relative;
+	margin: 0 auto;
+	text-align: center;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;	
+	
+
+}
+
+#header{
+
+	width: 80%;
+}
+
+h1{
+	position: absolute;
+	width: 100%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-border-radius:5px;	
+
+   
+}
+
+#h1{
+
+	width: 100%;
+
+}
+
+
+ul li {
+	width:100%;
+	line-height: 40px;
+	text-align:center;
+	margin-top:35px;
+	}
+
+
+
+section {
+	top: 1px;
+	width: 100%;
+	height:820px;
+	position:relative;
+	margin: 0 auto;
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-border-radius:5px;
+   
+    
+	
+}
+
+#caja1 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+	
+}
+
+#frase{
+	
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000;
+	font-style: italic;
+	margin-top: 30px;
+	text-shadow: 5px 5px 5px rgb(255, 255, 255);
+	-moz-text-shadow: 5px 5px 5px  rgb(255, 255, 255);
+	-o--text-shadow: 5px 5px 5px  rgb(255, 255, 255);
+	-webkit--text-shadow: 5px 5px 5px rgb rgb(255, 255, 255);
+	
+}
+
+#caja2 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja2.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 205px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+#frase2{
+	
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color:#000;
+	font-style: italic;
+	margin-top: 80px;
+	text-shadow: 5px 5px 5px rgb(255, 255, 255);
+	-moz-text-shadow: 5px 5px 5px  rgb(255, 255, 255);
+	-o--text-shadow: 5px 5px 5px  rgb(255, 255, 255);
+	-webkit--text-shadow: 5px 5px 5px rgb rgb(255, 255, 255);
+}
+
+#caja3 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    margin-top: 410px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+#caja4 {
+	position:absolute;
+    width: 100%;
+	height:200px;
+	background: url(../img/caja4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    margin-top: 615px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+#caja5 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja5.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+	
+}
+
+#caja6 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja6.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 205px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+#caja7 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja7.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    margin-top: 410px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+#caja8 {
+	position:absolute;
+    width: 100%;
+	height:200px;
+	background: url(../img/caja8.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    margin-top: 615px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+.titulos{
+
+	text-shadow: 5px 5px 5px rgb(128, 126, 126);
+	-moz-text-shadow: 5px 5px 5px rgb(128, 126, 126);
+	-o--text-shadow: 5px 5px 5px rgb(128, 126, 126);
+	-webkit--text-shadow: 5px 5px 5px rgb(128, 126, 126);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	color: #FFF;
+}
+
+.video{
+	position: absolute;
+    width: 100%;
+    height: 400px;
+	
+}
+
+video{
+
+    position: absolute;
+    width: 100%;
+    height: 400px;
+	margin-top: 10px;
+}
+
+.proyecto{
+
+	text-shadow: 5px 5px 5px rgb(128, 126, 126);
+	-moz-text-shadow: 5px 5px 5px rgb(128, 126, 126);
+	-o--text-shadow: 5px 5px 5px rgb(128, 126, 126);
+	-webkit--text-shadow: 5px 5px 5px rgb(128, 126, 126);
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#FFF;
+	font-style: italic;
+	margin-top: 10px;
+}
+
+.description1{
+
+	text-shadow: 10px 10px 10px #000;
+	-moz-text-shadow: 10px 10px 10px #000;
+	-o--text-shadow: 10px 10px 10px #000;
+	-webkit--text-shadow: 10px 10px 10px #000;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+	font-style: oblique;
+	color: #FFF;
+	margin-top: 2px;
+	
+}
+
+#caja10 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja10.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+	
+}
+
+#caja11 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja11.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 205px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+#frase3{
+
+	text-align: center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color:#000;
+	font-style: italic;
+	margin-top: 80px;
+	text-shadow: 5px 5px 5px rgb(255, 255, 255);
+	-moz-text-shadow: 5px 5px 5px  rgb(255, 255, 255);
+	-o--text-shadow: 5px 5px 5px  rgb(255, 255, 255);
+	-webkit--text-shadow: 5px 5px 5px rgb rgb(255, 255, 255);
+}
+
+#caja12 {
+	position:absolute;
+	width: 100%;
+	height:200px;
+	background: url(../img/caja12.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    margin-top: 410px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+#caja13 {
+	position:absolute;
+    width: 100%;
+	height:200px;
+	background: url(../img/caja13.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    margin-top: 615px;	
+	border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+	-webkit-border-radius:5px;
+
+}
+
+
+footer{
+
+
+	margin-top: 10px;
+}
+
+
+#footer {
+	width: 100%;
+}
+
